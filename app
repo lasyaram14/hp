@@ -1,1 +1,1 @@
-intializing the data in git
+intializing the metadata in git
